@@ -1,0 +1,36 @@
+/* Sidebar.css */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 15%;
+    /* col-3 equivalent width */
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    z-index: 1;
+    /* Ensure it stays above other content */
+}
+
+.sidebar h4 {
+    color: white;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar li {
+    margin: 10px 0;
+}
+
+.sidebar a {
+    color: white;
+    text-decoration: none;
+}
+
+.sidebar a:hover {
+    color: #f0f0f0;
+}
