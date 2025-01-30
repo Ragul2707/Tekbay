@@ -23,7 +23,7 @@ const Sidebar = () => {
                 <i style={{fontSize:"30px"}} class="fa-solid fa-bug mt-3 ms-2 me-2"></i>
             
             <h1 className=' '>aid<span>bees</span>
-            <p  style={{fontSize:"10px"}}>The social kindness platform</p></h1>
+            <p  style={{fontSize:"10px"}}>The social kindness </p></h1>
             </div>
         </div>
          <div className='bg-light'>
